@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "1030061462914",
+    "project_id": "login-register-93870",
+    "storage_bucket": "login-register-93870.appspot.com",
+    "firebase_url": "https://signuploginrealtiime-default-rtdb.firebaseio.com/"
+  },
+
+
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030061462914:android:15283f4505855c16f8eb9b",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Wyyt04lq-MeMakKngijvQ6Bj2SahIZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030061462914:android:cf7e32e03b2a7f78f8eb9b",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtiime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Wyyt04lq-MeMakKngijvQ6Bj2SahIZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
